@@ -1,0 +1,106 @@
+[
+    {
+      "title": "Mysore Palace, Karnataka",
+      "city": "Mysore",
+      "address": "Somewhere in Mysore",
+      "distance": 300,
+      "price": "99",
+      "maxGroupSize": 10,
+      "desc": "The Mysore Palace, located in the city of Mysore in Karnataka, India, is a stunning example of Indo-Saracenic architecture, blending Hindu, Islamic, Rajput, and Gothic styles. With its intricate designs, towering spires, and vibrant colors, it stands as a magnificent symbol of the rich cultural heritage of the region.",
+      "reviews": [],
+  
+      "photo": "../../Assets/tour-img01.jpg",
+      "featured": false
+    },
+    {
+      "title": "Taj Mahal, Uttar Pradesh ",
+      "city": "Agra",
+      "address": "Somewhere in Uttar Pradesh",
+      "distance": 400,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "The Taj Mahal, a UNESCO World Heritage Site in Agra, India, is an architectural marvel renowned for its breathtaking beauty and as a symbol of eternal love, commissioned by Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal.",
+      "reviews": [],
+  
+      "photo": "../../Assets/tour-img02.jpg",
+      "featured": false
+    },
+    {
+      "title": "Tanjore Temple, Tamil Nadu",
+      "city": "Thanjavur",
+      "address": "Somewhere in Tamil Nadu",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "The Tanjore Temple, also known as the Brihadeeswarar Temple, is a magnificent architectural marvel in Tamil Nadu, India, showcasing exquisite Dravidian craftsmanship and towering vimana, dedicated to Lord Shiva.",
+      "reviews": [],
+  
+      "photo": "../../Assets/tour-img03.jpg",
+      "featured": false
+    },
+    {
+      "title": "India Gate, Maharastra",
+      "city": "Mumbai",
+      "address": "Somewhere in Maharastra",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "India Gate, a majestic war memorial in New Delhi, stands as a poignant tribute to the Indian soldiers who sacrificed their lives during World War I, with its grand arch and eternal flame evoking solemn remembrance and national pride.",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img04.jpg",
+      "featured": false
+    },
+    {
+      "title": "Solang Valley, Himachal Pradesh",
+      "city":  "Manali",
+      "address": "Somewhere in Himachal Pradesh",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "Solang Valley, nestled amidst the picturesque Himalayas in Himachal Pradesh, India, is a popular destination offering thrilling adventure activities such as skiing, paragliding, and zorbing amidst breathtaking snow-capped landscapes.",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img05.jpg",
+      "featured": false
+    },
+    {
+      "title": "Victoria Memorial, West Bengal",
+      "city": "Kolkata",
+      "address": "Somewhere in West Bengal",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "The Victoria Memorial, an iconic landmark in Kolkata, India, is a splendid example of colonial architecture, dedicated to Queen Victoria's memory, housing a museum showcasing India's rich history and cultural heritage.",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img06.jpg",
+      "featured": false
+    },
+    {
+      "title": "Beach, Kerala",
+      "city": "Kochi",
+      "address": "Somewhere in Kerala",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "Kochi Beach, situated along the Arabian Sea coast in Kerala, India, enchants visitors with its serene shores, picturesque Chinese fishing nets, and vibrant local culture, making it a delightful destination for leisurely strolls and stunning sunsets.",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img07.jpg",
+      "featured": false
+    },
+    {
+      "title": "Yercaud, Tamil Nadu",
+      "city": "Salem",
+      "address": "Somewhere in Salem",
+      "distance": 500,
+      "price": "99",
+      "maxGroupSize": 8,
+      "desc": "Yercaud, nestled in the Eastern Ghats of Tamil Nadu, India, captivates with its tranquil ambiance, lush greenery, and refreshing climate, offering a rejuvenating escape amidst scenic viewpoints, serene lakes, and aromatic spice plantations.",
+      "reviews": [],
+  
+      "photo": "../../Assets/tour-img08.jpg",
+      "featured": false
+    }
+  ]

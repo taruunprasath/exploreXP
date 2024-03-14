@@ -1,0 +1,17 @@
+.Logo img {
+    width: 200px;
+    height: 100px;
+}
+
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px ;
+}
+.footer .logo p{
+    color: var(--text-color);
+}
+.social__links span a{
+    text-decoration: none;
+    color: var(--heading-color);
+    font-size: 3rem;
+}
